@@ -33,4 +33,9 @@ Listing some of my Projects in different Categories!!
 
 ## WEB PROJECTS
 
-1. 
+1. **WebProjects** - It consists of small parts of a web making; separate folders for each small work, for eg; Price table, HTML Basics, CSS Basics and more [Project Link](https://github.com/Sharon-n789/WebProjects.git)
+   
+2. **TinDog_Project** - A Tinder web page for Dogs!✨ A simple page, does not consist of much of work.  [Webpage_Deployed](https://sharon-n789.github.io/TinDog_Project/)
+
+## INTERNSHIP
+1. **semanticClimate** - semanticClimate is a Science initiative to transform information into structured, filtered, and actionable knowledge. It liberates knowledge from climate-related reports. [My Work there](https://github.com/Sharon-n789/Sharon_Intern_Work.git)

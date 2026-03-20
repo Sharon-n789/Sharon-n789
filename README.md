@@ -21,4 +21,9 @@ Listing some of my Projects in different Categories!!
 
 2. **Air Quality Forecasting** - Although made using FB Prophet, many EDA in Python is performed to make dataset fit to be work on. [Google_Colab Link](https://colab.research.google.com/github/Sharon-n789/Air-Quality-Project/blob/main/AirQuality_Forecasting_Using_ML.ipynb)
 
-3. 
+
+## PYTHON PROJECTS
+
+1. **PProjects** - Collection of most of the minor projects like *snake game, car race, pomodoro and more*, they are all built on python. [Project Link](https://github.com/Sharon-n789/PProjects.git)
+2. **Quizzler** - A sleek, GUI-based quiz application built with Python and Tkinter. The app fetches dynamic trivia questions from the Open Trivia Database API. [Project Link](https://github.com/Sharon-n789/Quizzler.git)
+   [Preview video for same](images/Quizzler.gif)

@@ -24,6 +24,13 @@ Listing some of my Projects in different Categories!!
 
 ## PYTHON PROJECTS
 
-1. **PProjects** - Collection of most of the minor projects like *snake game, car race, pomodoro and more*, they are all built on python. [Project Link](https://github.com/Sharon-n789/PProjects.git)
-2. **Quizzler** - A sleek, GUI-based quiz application built with Python and Tkinter. The app fetches dynamic trivia questions from the Open Trivia Database API. [Project Link](https://github.com/Sharon-n789/Quizzler.git)
-   [Preview video for same](images/Quizzler.gif)
+1. **PProjects** - Collection of most of the minor projects like *snake game, car race, pomodoro and more*, they are all built on python.
+    [Project Link](https://github.com/Sharon-n789/PProjects.git)
+   
+3. **Quizzler** - A sleek, GUI-based quiz application built with Python and Tkinter. The app fetches dynamic trivia questions from the Open *Trivia Database API*. [Project Link](https://github.com/Sharon-n789/Quizzler.git)
+
+   [Preview video for quizzler same](Quizzler.gif)
+
+## WEB PROJECTS
+
+1. 
